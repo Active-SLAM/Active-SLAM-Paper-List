@@ -107,7 +107,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Privileged Reinforcement and Communication Learning for Distributed, Bandwidth-limited Multi-robot Exploration, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2407.20203)] [[Code](https://github.com/marmotlab/Bandwidth-Limited-Multi-Robot-Exploration)]
 - Deep Reinforcement Learning-based Large-scale Robot Exploration, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2403.10833)]
 - Reinforcement Learning Driven Multi-Robot Exploration via Explicit Communication and Density-Based Frontier Search, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.20049)]
-
+- MapExRL: Human-Inspired Indoor Exploration with Predicted Environment Context and Reinforcement Learning, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.01548)]
 
 ##### 1.4.1 end-to-end strategies
 
