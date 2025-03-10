@@ -161,6 +161,7 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 #### 4.1 Single Object
 
 - Active Implicit Object Reconstruction using Uncertainty-guided Next-Best-View Optimization, *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2303.16739)] [[Code](https://github.com/HITSZ-NRSL/ActiveImplicitRecon)]
+- Finding things in the unknown: Semantic object-centric exploration with an mav, *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2302.14569)] [[Code](https://github.com/smartroboticslab/semantic-exploration-icra-2023)]
 - PB-NBV: Efficient Projection-Based Next-Best-View Planning Framework for Reconstruction of Unknown Objects, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.10663)] 
 
 #### 4.2 Entire Scene
