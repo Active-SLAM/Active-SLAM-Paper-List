@@ -202,3 +202,4 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 
 - AK: Attentive Kernel for Information Gathering, *RSS 2022*. [[Paper](https://arxiv.org/pdf/2205.06426)] [[Code](https://github.com/weizhe-chen/attentive_kernels)] [[Website](https://wchen-robotics.com/attentive_kernels/)]
 - Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes, *IJRR 2024*. [[Paper](https://arxiv.org/pdf/2306.01263)] [[PyPolo](https://pypolo.readthedocs.io/en/latest/)]
+- Multi-Agent Ergodic Exploration under Smoke-Based Time-Varying Sensor Visibility Constraints, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.04998)]
