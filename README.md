@@ -35,6 +35,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation, *arXiv 2016*. [[Paper](https://arxiv.org/pdf/1612.07139)]
 - A Survey on the autonomous exploration of confined subterranean spaces: Perspectives from real-word and industrial robotic deployments, *RAS 2016*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889022001932)]
 - Mobile robots exploration strategies and  requirements: A systematic mapping study, *IJRR 2025*. [[Paper](https://journals.sagepub.com/doi/abs/10.1177/02783649241313471)]
+- Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07278)]
 
 ## 1 Robotic Exploration
 
@@ -64,6 +65,9 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - FALCON: Fast Autonomous Aerial Exploration Using Coverage Path Guidance, *TRO 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10816079)] [[Code](https://github.com/HKUST-Aerial-Robotics/FALCON)]
 - EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.14203)]
 - Factor Graph-Based Active SLAM for Spacecraft Proximity Operations, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.10950)]
+- PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07504)]
+- HELM: Human-Preferred Exploration with Language Models, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07006)]
+
 
 #### 1.2 Multi-robot System
 
