@@ -67,6 +67,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Factor Graph-Based Active SLAM for Spacecraft Proximity Operations, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.10950)]
 - PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07504)]
 - HELM: Human-Preferred Exploration with Language Models, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07006)]
+- Action-Aware Pro-Active Safe Exploration for Mobile Robot Mapping, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.09515)]
+
 
 
 #### 1.2 Multi-robot System
