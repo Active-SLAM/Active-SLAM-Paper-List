@@ -197,7 +197,7 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 - An Exploration-Enhanced Search Algorithm for Robot Indoor Source Searching, *TRO 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10665938)]
 - Gas Source Localization in Unknown Indoor Environments sing Dual-Mode Information-Theoretic Search, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10777609)]
 - Fast and Scalable Signal Inference for Active Robotic Source Seeking, *IROS 2023*. [[Paper](https://arxiv.org/pdf/2301.02362)]
-
+- Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.10349)]
 
 #### 5.2 Active Self-localization
 
