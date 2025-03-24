@@ -69,7 +69,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07504)]
 - HELM: Human-Preferred Exploration with Language Models, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07006)]
 - Action-Aware Pro-Active Safe Exploration for Mobile Robot Mapping, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.09515)]
-
+- Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.17005)]
 
 
 #### 1.2 Multi-robot System
@@ -214,3 +214,4 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 - AK: Attentive Kernel for Information Gathering, *RSS 2022*. [[Paper](https://arxiv.org/pdf/2205.06426)] [[Code](https://github.com/weizhe-chen/attentive_kernels)] [[Website](https://wchen-robotics.com/attentive_kernels/)]
 - Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes, *IJRR 2024*. [[Paper](https://arxiv.org/pdf/2306.01263)] [[PyPolo](https://pypolo.readthedocs.io/en/latest/)]
 - Multi-Agent Ergodic Exploration under Smoke-Based Time-Varying Sensor Visibility Constraints, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.04998)]
+- Informative Path Planning to Explore and Map Unknown Planetary Surfaces with Gaussian Processes, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.16613)]
