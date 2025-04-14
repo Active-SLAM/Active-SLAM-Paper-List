@@ -64,7 +64,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Towards field deployment of MAVs in adaptive exploration of GPS-denied subterranean environments, *RAS 2024*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889024000460)]
 - 3D Active Metric-Semantic SLAM, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2309.06950)] [[Code](https://github.com/tyuezhan/RAL24-3DAMSSLAM)]
 - FALCON: Fast Autonomous Aerial Exploration Using Coverage Path Guidance, *TRO 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10816079)] [[Code](https://github.com/HKUST-Aerial-Robotics/FALCON)]
-- EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.14203)]
+- EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios, *RAL 2025*. [[Paper](https://arxiv.org/pdf/2410.14203)]
 - Factor Graph-Based Active SLAM for Spacecraft Proximity Operations, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.10950)]
 - PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07504)]
 - HELM: Human-Preferred Exploration with Language Models, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07006)]
