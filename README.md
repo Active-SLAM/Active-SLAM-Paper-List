@@ -159,6 +159,8 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 - ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology, *Iberian Robotics conference, 2022*. [[Paper](https://arxiv.org/pdf/2209.03693)] [[Code](https://github.com/JulioPlaced/ExplORB-SLAM)]
 - Loop-Aware Exploration Graph: A concise representation of environments for exploration and active loop-closure, *RAS 2022*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S092188902200104X)]
 - Graph-based SLAM-Aware Exploration with Prior Topo-Metric Information, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2308.16522)] [[Code](https://github.com/bairuofei/Graph-Based_SLAM-Aware_Exploration)]
+- Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.10416)]
+
 
 ## 3 Active Loop Closure
 
