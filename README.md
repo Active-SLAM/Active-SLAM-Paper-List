@@ -98,6 +98,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Learning to Explore using Active Neural SLAM, *ICLR  2020*. [[Paper](https://arxiv.org/pdf/2004.05155)] [[Code](https://github.com/devendrachaplot/Neural-SLAM)] [[Website](https://devendrachaplot.github.io/projects/Neural-SLAM)]
 - DARE: Diffusion Policy for Autonomous Robot Exploration, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.16687)]
 
+
 #### 1.4 Reinforcement Learning-based Exploration
 
 - Towards cognitive exploration through deep reinforcement learning for mobile robots, *arXiv 2016*. [[Paper](https://arxiv.org/pdf/1610.01733)]
@@ -206,6 +207,7 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 - Gas Source Localization in Unknown Indoor Environments sing Dual-Mode Information-Theoretic Search, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10777609)]
 - Fast and Scalable Signal Inference for Active Robotic Source Seeking, *IROS 2023*. [[Paper](https://arxiv.org/pdf/2301.02362)]
 - Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.10349)]
+- ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion, *arXiv 2025*. [Website](https://arxiv.org/pdf/2504.14478)] [[Website](https://arxiv.org/pdf/2504.14478)]
 
 #### 5.2 Active Self-localization
 
