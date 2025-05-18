@@ -222,3 +222,8 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 - Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes, *IJRR 2024*. [[Paper](https://arxiv.org/pdf/2306.01263)] [[PyPolo](https://pypolo.readthedocs.io/en/latest/)]
 - Multi-Agent Ergodic Exploration under Smoke-Based Time-Varying Sensor Visibility Constraints, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.04998)]
 - Informative Path Planning to Explore and Map Unknown Planetary Surfaces with Gaussian Processes, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.16613)]
+- 
+
+
+## 7 Exploration and Interaction
+- CuriousBot: Interactive Mobile Exploration via Actionable 3D Relational Object Graph, *arXiv 2025*. [[Paper](https://openreview.net/attachment?id=mnf8Fj9zfU&name=pdf)] [[Code](https://bdaiinstitute.github.io/curiousbot/)]
