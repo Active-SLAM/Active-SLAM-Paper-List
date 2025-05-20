@@ -58,7 +58,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Estimating Map Completeness in Robot Exploration, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2406.13482)]
 - Enhancing Exploration Efficiency using Uncertainty-Aware Information Prediction, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.12825)]
 - A Skeleton-Based Topological Planner for Exploration in Complex Unknown Environments, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.13664)] [[Code](https://github.com/Haochen-Niu/STGPlanner)]
-- MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2409.15590)]
+- MapEx: Indoor Structure Exploration with Probabilistic Information Gain from Global Map Predictions, *ICRA 2025*. [[Paper](https://arxiv.org/pdf/2409.15590)] [[Code](https://github.com/castacks/MapEx)]
 - HEROS: Hierarchical Exploration with Online Subregion Updating for 3D Environment Coverage, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2407.11326)] [[Code](https://github.com/bit-lsj/HEROS)]
 - HPHS: Hierarchical Planning based on Hybrid Frontier Sampling for Unknown Environments Exploration, *IROS 2024*. [[Paper](https://arxiv.org/pdf/2407.10660)] [[Code](https://github.com/bit-lsj/HPHS)]
 - Towards field deployment of MAVs in adaptive exploration of GPS-denied subterranean environments, *RAS 2024*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889024000460)]
