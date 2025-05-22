@@ -88,6 +88,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - AAGE: Air-Assisted Ground Robotic Autonomous Exploration in Large-Scale Unknown Environments, *TRO 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10891932)]
 - Realm: Real-Time Line-of-Sight Maintenance in Multi-Robot Navigation with Unknown Obstacles, *ICRA 2025*. [[Paper](https://arxiv.org/pdf/2502.15162)] [[Code](https://arxiv.org/pdf/2502.15162)]
 - A Hierarchical Region-Based Approach for Efficient Multi-Robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.12876)]
+- A Hierarchical Graph-Based Terrain-Aware Autonomous Navigation Approach for Complementary Multimodal Ground-Aerial Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2505.14859)]
 
 
 #### 1.3 Neural-based Exploration
