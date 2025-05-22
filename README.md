@@ -208,6 +208,7 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 - Fast and Scalable Signal Inference for Active Robotic Source Seeking, *IROS 2023*. [[Paper](https://arxiv.org/pdf/2301.02362)]
 - Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.10349)]
 - ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion, *arXiv 2025*. [Website](https://arxiv.org/pdf/2504.14478)] [[Website](https://arxiv.org/pdf/2504.14478)]
+- FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment, *arXiv 2025*. [Website](https://arxiv.org/pdf/2504.08603)]
 
 #### 5.2 Active Self-localization
 
