@@ -200,7 +200,7 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 
 ## 5 Active Localization
 
-#### 5.1 Active Object/Source Localization
+#### 5.1 Active Object/Source Localization/Navigation
 
 - Autonomous exploration and simultaneous object search using aerial robots, *IEEE Aerospace Conference 2018*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8396632)]
 - Dual-stage planner for autonomous radioactive source localization in unknown environments, *RAS 2024*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889023002427)]
