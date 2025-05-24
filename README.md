@@ -73,6 +73,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Information Gain Is Not All You Need, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.01980)]
 - SeGuE: Semantic Guided Exploration for Mobile Robots, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.03629)]
 - FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.08603)]
+- Unlocking Full Exploration Potential of Ground Robots by Multiresolution Topological Mapping, *TII 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11006868)]
 
 
 #### 1.2 Multi-robot System
