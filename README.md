@@ -75,6 +75,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.08603)]
 - Unlocking Full Exploration Potential of Ground Robots by Multiresolution Topological Mapping, *TII 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11006868)]
 - Robot active neural sensing and planning in unknown cluttered environments, *TRO 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10101696/)]
+- Understanding while Exploring: Semantics-driven Active Mapping, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.00225)]
 
 #### 1.2 Multi-robot System
 
