@@ -77,6 +77,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Robot active neural sensing and planning in unknown cluttered environments, *TRO 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10101696/)]
 - Understanding while Exploring: Semantics-driven Active Mapping, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.00225)]
 - EDEN: Efficient Dual-Layer Exploration Planning for Fast UAV Autonomous Exploration in Large 3-D Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.05106)] [[Code](https://github.com/NKU-MobFly-Robotics/EDEN)]
+- HEATS: A Hierarchical Framework for Efficient Autonomous Target Search with Mobile Manipulators, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07986)] [[Code](https://github.com/Andy168byte/HEATS)]
+
 
 #### 1.2 Multi-robot System
 
