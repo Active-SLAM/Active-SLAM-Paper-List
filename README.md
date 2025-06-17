@@ -218,6 +218,7 @@ Note: two-stages strategies use RL techniques for viewpoint selection and naviga
 - FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.08603)]
 - GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2505.20828)]
 - Conscious Frontier Analysis Model: Learning-Based Path Planning for PointGoal Navigation, *TASE 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11015745)]
+- Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.13367)] [[Code](https://github.com/PRBonn/uiap-ogn)]
 
 #### 5.2 Active Self-localization
 
