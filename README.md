@@ -34,15 +34,14 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Autonomous exploration and simultaneous object search using aerial robots, *IEEE Aerospace Conference 2018*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8396632)]
 - Object Goal Navigation using Goal-Oriented Semantic Exploration, *NeurIPS 2020*,  [[Paper](https://proceedings.neurips.cc/paper/2020/file/2c75cf2681788adaca63aa95ae028b22-Paper.pdf)] [[Code](https://github.com/devendrachaplot/Object-Goal-Navigation)]
 - Visual Language Maps for Robot Navigation, *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2210.05714)] [[Code](https://github.com/vlmaps/vlmaps)] [[Website](https://vlmaps.github.io/)]
-
 - Vlfm: Vision-language frontier maps for zero-shot semantic navigation, *ICRA 2024*. [[Paper](https://arxiv.org/pdf/2312.03275)] [[Code](https://github.com/bdaiinstitute/vlfm)] [[Website](https://naoki.io/portfolio/vlfm)]
-
 - ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.14478)] [[Website](https://arxiv.org/pdf/2504.14478)]
 - FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.08603)]
 - GET: Goal-directed Exploration and Targeting for Large-Scale Unknown Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2505.20828)]
 - Conscious Frontier Analysis Model: Learning-Based Path Planning for PointGoal Navigation, *TASE 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11015745)]
 - Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.13367)] [[Code](https://github.com/PRBonn/uiap-ogn)]
 - Multimodal Spatial Language Maps for Robot Navigation and Manipulation, *IJRR 2025*. [[Paper](https://arxiv.org/pdf/2506.06862)] [[Code](https://github.com/avlmaps/AVLMaps)] [[Website](https://mslmaps.github.io/)]
+- GaussNav: Gaussian Splatting for Visual Navigation, *TPAMI 2025*. [[Paper](https://arxiv.org/pdf/2403.11625.pdf)] [[Code](https://github.com/XiaohanLei/GaussNav)] [[Website](https://xiaohanlei.github.io/projects/GaussNav/)]
 
 ## 3 Autonomous Mapping
 
