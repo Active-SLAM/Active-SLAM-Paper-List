@@ -66,7 +66,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - FALCON: Fast Autonomous Aerial Exploration Using Coverage Path Guidance, *TRO 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10816079)] [[Code](https://github.com/HKUST-Aerial-Robotics/FALCON)]
 - EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios, *RAL 2025*. [[Paper](https://arxiv.org/pdf/2410.14203)] [[Code](https://github.com/SYSU-STAR/EPIC)]
 - Factor Graph-Based Active SLAM for Spacecraft Proximity Operations, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2501.10950)]
-- PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07504)]
+- PIPE Planner: Pathwise Information Gain with Map Predictions for Indoor Robot Exploration, *IROS 2025*. [[Paper](https://arxiv.org/pdf/2503.07504)]
 - HELM: Human-Preferred Exploration with Language Models, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07006)]
 - Action-Aware Pro-Active Safe Exploration for Mobile Robot Mapping, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.09515)]
 - Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.17005)]
