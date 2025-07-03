@@ -42,6 +42,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.13367)] [[Code](https://github.com/PRBonn/uiap-ogn)]
 - Multimodal Spatial Language Maps for Robot Navigation and Manipulation, *IJRR 2025*. [[Paper](https://arxiv.org/pdf/2506.06862)] [[Code](https://github.com/avlmaps/AVLMaps)] [[Website](https://mslmaps.github.io/)]
 - GaussNav: Gaussian Splatting for Visual Navigation, *TPAMI 2025*. [[Paper](https://arxiv.org/pdf/2403.11625.pdf)] [[Code](https://github.com/XiaohanLei/GaussNav)] [[Website](https://xiaohanlei.github.io/projects/GaussNav/)]
+- VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.01125)]
 
 ## 3 Autonomous Mapping
 
