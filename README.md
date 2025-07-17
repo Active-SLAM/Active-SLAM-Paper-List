@@ -97,6 +97,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - HEATS: A Hierarchical Framework for Efficient Autonomous Target Search with Mobile Manipulators, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07986)] [[Code](https://github.com/Andy168byte/HEATS)]
 - Robust Robotic Exploration and Mapping Using Generative Occupancy Map Synthesis, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.20049)]
 - FrontierNet: Learning Visual Cues to Explore, *RAL 2025*. [[Paper](https://arxiv.org/pdf/2501.04597)] [[Code](https://github.com/cvg/FrontierNet)]
+- Omni-Explorer: A Rapid Autonomous Exploration Framework With FOV Expansion Mechanism, *IEEE Transactions on Cybernetics 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11077708)]
 
 
 #### 3.1.2 Multi-robot System
