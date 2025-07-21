@@ -26,8 +26,12 @@ This repository organizes relevant papers in the Active SLAM domain according to
 
 ## 1 Coverage Planning
 
+
+### 1.1 Robot Coverage Planning
 - Adaptive coverage path planning for efficient exploration of unknown environments, *IROS 2022*. [[Paper](https://arxiv.org/pdf/2302.03164)]
 - A hierarchical multi-UAV cooperative framework for infrastructure inspection and reconstruction, *Control Theory and Technology 2024*. [[Paper](https://link.springer.com/content/pdf/10.1007/s11768-024-00202-0.pdf)]
+
+### 1.2 Sensor Coverage Planning
 
 ## 2 Object Navigation
 
