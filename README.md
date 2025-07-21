@@ -19,10 +19,15 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age, *TRO 2016*. [[Paper](https://arxiv.org/pdf/1606.05830.pdf)]
 - A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation, *arXiv 2016*. [[Paper](https://arxiv.org/pdf/1612.07139)]
 - A Survey on the autonomous exploration of confined subterranean spaces: Perspectives from real-word and industrial robotic deployments, *RAS 2016*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889022001932)]
+- A Comprehensive Review of Coverage Path  Planning in Robotics Using Classical and Heuristic  Algorithms, *IEEE Access 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9523743/)]
 - A survey on active simultaneous localization and mapping: State of the art and new frontiers, *TRO 2023*. [[Paper](https://arxiv.org/pdf/2207.00254)]
 - Active slam: A review on last decade, *Sensors 2023*. [[Paper](https://www.mdpi.com/1424-8220/23/19/8097)]
 - Mobile robots exploration strategies and  requirements: A systematic mapping study, *IJRR 2025*. [[Paper](https://journals.sagepub.com/doi/abs/10.1177/02783649241313471)]
 - Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07278)]
+
+## PhD Thesis
+
+-  Motion and Task Planning for Mobile Robot Navigation Under Uncertainty,  Xinyue Kan, 2021
 
 ## 1 Coverage Planning
 
@@ -30,8 +35,11 @@ This repository organizes relevant papers in the Active SLAM domain according to
 ### 1.1 Robot Coverage Planning
 - Adaptive coverage path planning for efficient exploration of unknown environments, *IROS 2022*. [[Paper](https://arxiv.org/pdf/2302.03164)]
 - A hierarchical multi-UAV cooperative framework for infrastructure inspection and reconstruction, *Control Theory and Technology 2024*. [[Paper](https://link.springer.com/content/pdf/10.1007/s11768-024-00202-0.pdf)]
+- Anytime Replanning of Robot Coverage Paths for  Partially Unknown Environments, *TRO 2022*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10665968)]
 
 ### 1.2 Sensor Coverage Planning
+
+-  Online Exploration and Coverage Planning  in Unknown Obstacle-Cluttered Environments, *RAL 2020*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9144373/)]
 
 ## 2 Object Navigation
 
