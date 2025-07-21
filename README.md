@@ -40,6 +40,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 ### 1.2 Sensor Coverage Planning
 
 -  Online Exploration and Coverage Planning  in Unknown Obstacle-Cluttered Environments, *RAL 2020*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9144373/)]
+-  Fast-Revisit Coverage Path Planning  for Autonomous Mobile Patrol Robots  Using Long-Range Sensor Information, *IROS 2025*. [[Paper](https://arxiv.org/pdf/2501.07343)] [[Code](https://github.com/hcr-lab/fare-cpp)] 
 
 ## 2 Object Navigation
 
