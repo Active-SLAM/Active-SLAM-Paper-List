@@ -24,6 +24,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Active slam: A review on last decade, *Sensors 2023*. [[Paper](https://www.mdpi.com/1424-8220/23/19/8097)]
 - Mobile robots exploration strategies and  requirements: A systematic mapping study, *IJRR 2025*. [[Paper](https://journals.sagepub.com/doi/abs/10.1177/02783649241313471)]
 - Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07278)]
+- A Comprehensive Survey on Coverage Path Planning for Mobile Robots in Dynamic Environments, *IEEE Access 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10946186)]
 
 ## PhD Thesis
 
