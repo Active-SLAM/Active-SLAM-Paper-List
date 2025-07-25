@@ -214,6 +214,8 @@ Note: two-stages strategies use RL for viewpoint selection and navigation
 - Learning Where to Look: Self-supervised Viewpoint Selection for Active Localization Using Geometrical Information, *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2407.15593)] [[Code](https://github.com/rvp-group/learning-where-to-look)]
 - Floor Plan Based Active Global Localization and Navigation Aid for Persons With Blindness and Low Vision, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10734166)] [[Code](https://github.com/raktimgg/FloorPlanActiveLocalization)] [[Website](https://raktimgg.github.io/FloorPlanActiveLocalization.io/)]
 - Perception-aware Planning for Quadrotor Flight in Unknown and Feature-limited Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.15273)]
+- Help Me Through: Imitation Learning Based Active View Planning to Avoid SLAM Tracking Failures, *TRO 2025*. [[Paper](https://ieeexplore.ieee.org/document/11049022)]
+
 
 ## 5 Active SLAM
 
