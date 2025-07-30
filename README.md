@@ -113,6 +113,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - FrontierNet: Learning Visual Cues to Explore, *RAL 2025*. [[Paper](https://arxiv.org/pdf/2501.04597)] [[Code](https://github.com/cvg/FrontierNet)]
 - Omni-Explorer: A Rapid Autonomous Exploration Framework With FOV Expansion Mechanism, *IEEE Transactions on Cybernetics 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11077708)]
 - A UAV Autonomous Exploration Method Based on High-Quality Viewpoints and Infilled Guidance, *T-Mech 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11082662)]
+- LITE: A Learning-Integrated Topological Explorer for Multi-Floor Indoor Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.21517)]
 
 
 #### 3.1.2 Multi-robot System
