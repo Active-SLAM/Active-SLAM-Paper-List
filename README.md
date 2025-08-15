@@ -114,6 +114,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Omni-Explorer: A Rapid Autonomous Exploration Framework With FOV Expansion Mechanism, *IEEE Transactions on Cybernetics 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11077708)]
 - A UAV Autonomous Exploration Method Based on High-Quality Viewpoints and Infilled Guidance, *T-Mech 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11082662)]
 - LITE: A Learning-Integrated Topological Explorer for Multi-Floor Indoor Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.21517)]
+- Biasing Frontier–Based Exploration with Saliency Areas, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.10689)]
 
 
 #### 3.1.2 Multi-robot System
@@ -207,6 +208,7 @@ Note: two-stages strategies use RL for viewpoint selection and navigation
 - Gas Source Localization in Unknown Indoor Environments sing Dual-Mode Information-Theoretic Search, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10777609)]
 - Fast and Scalable Signal Inference for Active Robotic Source Seeking, *IROS 2023*. [[Paper](https://arxiv.org/pdf/2301.02362)]
 - Autonomous Robotic Radio Source Localization via a Novel Gaussian Mixture Filtering Approach, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.10349)]
+- BEASST: Behavioral Entropic Gradient based Adaptive Source Seeking for Mobile Robots, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.10363)]
 
 ### 4.2 Active Self-localization
 
