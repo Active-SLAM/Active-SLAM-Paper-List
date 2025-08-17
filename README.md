@@ -115,6 +115,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - A UAV Autonomous Exploration Method Based on High-Quality Viewpoints and Infilled Guidance, *T-Mech 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11082662)]
 - LITE: A Learning-Integrated Topological Explorer for Multi-Floor Indoor Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.21517)]
 - Biasing Frontier–Based Exploration with Saliency Areas, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.10689)]
+- Hierarchical Exploration of Mobile Robots by Unknown Region Division With Multiple Environment Representations, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11122319)]
 
 
 #### 3.1.2 Multi-robot System
@@ -133,6 +134,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - A Hierarchical Graph-Based Terrain-Aware Autonomous Navigation Approach for Complementary Multimodal Ground-Aerial Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2505.14859)]
 - MEF-Explore: Communication-Constrained Multi-Robot Entropy-Field-Based Exploration, *TASE 2025*. [[Paper](https://arxiv.org/pdf/2505.23376)]
 - PC-Explorer: Decentralized Multi-UAV Exploration in Bandwidth-Limited Environments, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11091481)]
+- MoRoCo: Multi-operator-robot Coordination, Interaction and Exploration under Restricted Communication, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.07657)]
 
 
 #### 3.1.3 Neural-based Exploration
