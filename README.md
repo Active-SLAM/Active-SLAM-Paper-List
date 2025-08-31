@@ -167,6 +167,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Reinforcement Learning Driven Multi-Robot Exploration via Explicit Communication and Density-Based Frontier Search, *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.20049)]
 - MapExRL: Human-Inspired Indoor Exploration with Predicted Environment Context and Reinforcement Learning, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.01548)]
 - DART: Dual-level Autonomous Robotic Topology for Efficient Exploration in Unknown Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.12782)]
+- CRL: An Efficient Autonomous Exploration Framework for Large-Scale Environments With Contrastive-Driven Reinforcement Learning, *TNNLS 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11142471)]
 
 ##### 1.4.1 end-to-end strategies
 
