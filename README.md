@@ -116,6 +116,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - LITE: A Learning-Integrated Topological Explorer for Multi-Floor Indoor Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2507.21517)]
 - Biasing Frontier–Based Exploration with Saliency Areas, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.10689)]
 - Hierarchical Exploration of Mobile Robots by Unknown Region Division With Multiple Environment Representations, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11122319)]
+- Autonomous Exploration With Terrestrial-Aerial Bimodal Vehicles, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11122320/)]
+- Hierarchical Exploration of Mobile Robots by Unknown Region Division With Multiple Environment Representations, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11122319/)]
 
 
 #### 3.1.2 Multi-robot System
