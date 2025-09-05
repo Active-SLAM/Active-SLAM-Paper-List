@@ -137,6 +137,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - MEF-Explore: Communication-Constrained Multi-Robot Entropy-Field-Based Exploration, *TASE 2025*. [[Paper](https://arxiv.org/pdf/2505.23376)]
 - PC-Explorer: Decentralized Multi-UAV Exploration in Bandwidth-Limited Environments, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11091481)]
 - MoRoCo: Multi-operator-robot Coordination, Interaction and Exploration under Restricted Communication, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.07657)]
+- Collaborative Exploration with a Marsupial Ground-Aerial Robot Team through Task-Driven Map Compression, *RAL 2025*. [[Paper-todo]()] [[Website](https://ntnu-arl.github.io/marsupial-collaborative-exploration/)]
 
 
 #### 3.1.3 Neural-based Exploration
