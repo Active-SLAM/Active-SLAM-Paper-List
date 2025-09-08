@@ -119,6 +119,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Autonomous Exploration With Terrestrial-Aerial Bimodal Vehicles, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11122320/)]
 - Hierarchical Exploration of Mobile Robots by Unknown Region Division With Multiple Environment Representations, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11122319/)]
 - RUSH: Rapid UAV Spatial Hierarchical Exploration via Regional Viewpoint Generation for Large-scale Environments, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11145776)]
+- HIGHSTAR: High-Speed and Efficient Online Autonomous UAV Exploration, *TASE 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11146891)] [[Code](https://github.com/NKU-MobFly-Robotics/HighStar)]
 
 
 #### 3.1.2 Multi-robot System
