@@ -120,6 +120,10 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Hierarchical Exploration of Mobile Robots by Unknown Region Division With Multiple Environment Representations, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11122319/)]
 - RUSH: Rapid UAV Spatial Hierarchical Exploration via Regional Viewpoint Generation for Large-scale Environments, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11145776)]
 - HIGHSTAR: High-Speed and Efficient Online Autonomous UAV Exploration, *TASE 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11146891)] [[Code](https://github.com/NKU-MobFly-Robotics/HighStar)]
+- FIELD: Fast Information-Driven Autonomous Exploration Using Larger Perception Distance, *IROS 2025*. [[Paper-todo]()]
+- FASTEX: Fast UAV Exploration in Large-Scale Environments Using Dynamically Expanding Grids and Coverage Paths, *IROS 2025*. [[Paper-todo]()]
+- P2 Explore: Efficient Exploration in Unknown Cluttered Environment with Floor Plan Prediction, *IROS 2025*. [[Paper](https://arxiv.org/pdf/2409.10878)]
+- Information Entropy-Assisted Hierarchical Framework for Unknown Environments Exploration, *IROS 2025*. [[Paper-todo]()]
 
 
 #### 3.1.2 Multi-robot System
@@ -140,6 +144,13 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - PC-Explorer: Decentralized Multi-UAV Exploration in Bandwidth-Limited Environments, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11091481)]
 - MoRoCo: Multi-operator-robot Coordination, Interaction and Exploration under Restricted Communication, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2508.07657)]
 - Collaborative Exploration with a Marsupial Ground-Aerial Robot Team through Task-Driven Map Compression, *RAL 2025*. [[Paper-todo]()] [[Website](https://ntnu-arl.github.io/marsupial-collaborative-exploration/)]
+- Frontier Shepherding: A Bio-Inspired Multi-Robot Framework for Large-Scale Exploration, *IROS 2025*. [[Paper](https://arxiv.org/pdf/2409.10931)]
+- REALMS2 - Resilient Exploration and Lunar Mapping System 2 – a Comprehensive Approach, *IROS 2025*. [[Paper-todo]()]
+- DHC-ME: A Decentralized Hybrid Cooperative Approach for Multi-Robot Autonomous Exploration, *IROS 2025*. [[Paper-todo]()]
+- Uncertain-Aware Informative Task Planning and Assignment for Multiple-UUVs Cooperative Underwater Exploration, *IROS 2025*. [[Paper-todo]()]
+- Energy-Constrained Multi-Robot Exploration for Autonomous Map Building, *IROS 2025*. [[Paper](https://shadow.merl.com/publications/docs/TR2025-131.pdf)]
+- Scalable MARL for Cooperative Exploration with Dynamic Robot Populations Via Graph-Based Information Aggregation, *IROS 2025*. [[Paper-todo]()]
+- CODE: Complete Coverage UAV Exploration Planner Using Dual-Type Viewpoints for Multi-Layer Complex Environments, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10811860/)]
 
 
 #### 3.1.3 Neural-based Exploration
