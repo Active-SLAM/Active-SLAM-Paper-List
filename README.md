@@ -102,7 +102,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - HELM: Human-Preferred Exploration with Language Models, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07006)]
 - Action-Aware Pro-Active Safe Exploration for Mobile Robot Mapping, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.09515)]
 - Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.17005)]
-- Information Gain Is Not All You Need, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.01980)]
+- Information Gain Is Not All You Need, *ECMR 2025*. [[Paper](https://arxiv.org/pdf/2504.01980)]
 - SeGuE: Semantic Guided Exploration for Mobile Robots, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.03629)]
 - Unlocking Full Exploration Potential of Ground Robots by Multiresolution Topological Mapping, *TII 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11006868)]
 - Robot active neural sensing and planning in unknown cluttered environments, *TRO 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10101696/)]
