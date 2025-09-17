@@ -124,6 +124,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - FASTEX: Fast UAV Exploration in Large-Scale Environments Using Dynamically Expanding Grids and Coverage Paths, *IROS 2025*. [[Paper-todo]()]
 - P2 Explore: Efficient Exploration in Unknown Cluttered Environment with Floor Plan Prediction, *IROS 2025*. [[Paper](https://arxiv.org/pdf/2409.10878)]
 - Information Entropy-Assisted Hierarchical Framework for Unknown Environments Exploration, *IROS 2025*. [[Paper-todo]()]
+- GRATE: a Graph transformer-based deep Reinforcement learning Approach for Time-efficient autonomous robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.12863)]
 
 
 #### 3.1.2 Multi-robot System
