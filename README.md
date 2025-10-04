@@ -126,6 +126,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Information Entropy-Assisted Hierarchical Framework for Unknown Environments Exploration, *IROS 2025*. [[Paper-todo]()]
 - GRATE: a Graph transformer-based deep Reinforcement learning Approach for Time-efficient autonomous robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.12863)]
 - GUIDE: A Diffusion-Based Autonomous Robot Exploration Framework Using Global Graph Inference, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.19916)]
+- Semantic Exploration and Dense Mapping of Complex Environments Using Ground Robot With Panoramic LiDAR-Camera Fusion, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11159179)]
 
 
 #### 3.1.2 Multi-robot System
@@ -153,7 +154,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Energy-Constrained Multi-Robot Exploration for Autonomous Map Building, *IROS 2025*. [[Paper](https://shadow.merl.com/publications/docs/TR2025-131.pdf)]
 - Scalable MARL for Cooperative Exploration with Dynamic Robot Populations Via Graph-Based Information Aggregation, *IROS 2025*. [[Paper-todo]()]
 - CODE: Complete Coverage UAV Exploration Planner Using Dual-Type Viewpoints for Multi-Layer Complex Environments, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10811860/)]
-
+- Collaborative Exploration With a Marsupial Ground-Aerial Robot Team Through Task-Driven Map Compression, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11159273/)]
 
 #### 3.1.3 Neural-based Exploration
 
