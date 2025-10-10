@@ -155,6 +155,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Scalable MARL for Cooperative Exploration with Dynamic Robot Populations Via Graph-Based Information Aggregation, *IROS 2025*. [[Paper-todo]()]
 - CODE: Complete Coverage UAV Exploration Planner Using Dual-Type Viewpoints for Multi-Layer Complex Environments, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10811860/)]
 - Collaborative Exploration With a Marsupial Ground-Aerial Robot Team Through Task-Driven Map Compression, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11159273/)]
+- HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration of Unknown Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.04161)]
 
 #### 3.1.3 Neural-based Exploration
 
