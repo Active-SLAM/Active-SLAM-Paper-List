@@ -127,6 +127,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - GRATE: a Graph transformer-based deep Reinforcement learning Approach for Time-efficient autonomous robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.12863)]
 - GUIDE: A Diffusion-Based Autonomous Robot Exploration Framework Using Global Graph Inference, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.19916)]
 - Semantic Exploration and Dense Mapping of Complex Environments Using Ground Robot With Panoramic LiDAR-Camera Fusion, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11159179)]
+- FLARE: Fast Large-scale Autonomous Exploration Guided by Unknown Regions, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11202253)]
 
 
 #### 3.1.2 Multi-robot System
