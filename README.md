@@ -128,6 +128,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - GUIDE: A Diffusion-Based Autonomous Robot Exploration Framework Using Global Graph Inference, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.19916)]
 - Semantic Exploration and Dense Mapping of Complex Environments Using Ground Robot With Panoramic LiDAR-Camera Fusion, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11159179)]
 - FLARE: Fast Large-scale Autonomous Exploration Guided by Unknown Regions, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11202253)]
+- Learning to Explore Efficiently: Heterogeneous Topological Graphs and Lightweight Global Reasoning for Robotic Exploration, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11206341)]
+- SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.19766v1)] [[Website](https://robo-lavira.github.io/sea-active-exp/)]
 
 
 #### 3.1.2 Multi-robot System
