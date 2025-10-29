@@ -131,6 +131,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Learning to Explore Efficiently: Heterogeneous Topological Graphs and Lightweight Global Reasoning for Robotic Exploration, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11206341)]
 - SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.19766v1)] [[Website](https://robo-lavira.github.io/sea-active-exp/)]
 - TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11214391)]
+- BATO: Bayesian Trajectory Optimization for Active Environmental Mapping Using Autonomous Robots, *T-Mech 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11216354)]
 
 
 #### 3.1.2 Multi-robot System
