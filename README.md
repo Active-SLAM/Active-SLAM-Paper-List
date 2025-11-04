@@ -132,6 +132,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - SEA: Semantic Map Prediction for Active Exploration of Uncertain Areas, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.19766v1)] [[Website](https://robo-lavira.github.io/sea-active-exp/)]
 - TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11214391)]
 - BATO: Bayesian Trajectory Optimization for Active Environmental Mapping Using Autonomous Robots, *T-Mech 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11216354)]
+- TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11214391/)]
+- Energy-Aware UAV Coverage Planning in Mountainous Terrain via Contour-Aligned Path Generation, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11204479)]
 
 
 #### 3.1.2 Multi-robot System
@@ -161,7 +163,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - CODE: Complete Coverage UAV Exploration Planner Using Dual-Type Viewpoints for Multi-Layer Complex Environments, *RAL 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10811860/)]
 - Collaborative Exploration With a Marsupial Ground-Aerial Robot Team Through Task-Driven Map Compression, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11159273/)]
 - HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration of Unknown Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.04161)]
-- Coverage-Recon: Coordinated Multi-Drone Image Sampling with Online Map Feedback *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.18347)] [[Website](https://htnk-lab.github.io/coverage-recon/)]
+- Coverage-Recon: Coordinated Multi-Drone Image Sampling with Online Map Feedback, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.18347)] [[Website](https://htnk-lab.github.io/coverage-recon/)]
+- SPACE: 3D Spatial Co-operation and Exploration Framework for Robust Mapping and Coverage with Multi-Robot Systems, *arXiv 2025*. [[Paper](https://ieeexplore.ieee.org/document/11222879)]
 
 #### 3.1.3 Neural-based Exploration
 
