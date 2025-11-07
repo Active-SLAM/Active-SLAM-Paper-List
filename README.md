@@ -134,6 +134,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - BATO: Bayesian Trajectory Optimization for Active Environmental Mapping Using Autonomous Robots, *T-Mech 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11216354)]
 - TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11214391/)]
 - Energy-Aware UAV Coverage Planning in Mountainous Terrain via Contour-Aligned Path Generation, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11204479)]
+- PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration, *Sensors 2025*. [[Paper](https://arxiv.org/pdf/2511.04180v1)]
 
 
 #### 3.1.2 Multi-robot System
