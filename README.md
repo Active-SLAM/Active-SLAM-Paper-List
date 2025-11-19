@@ -200,6 +200,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - DART: Dual-level Autonomous Robotic Topology for Efficient Exploration in Unknown Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.12782)]
 - CRL: An Efficient Autonomous Exploration Framework for Large-Scale Environments With Contrastive-Driven Reinforcement Learning, *TNNLS 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11142471)]
 - HEADER: Hierarchical Robot Exploration via Attention-Based Deep Reinforcement Learning with Expert-Guided Reward, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.15679)]
+- MA-SLAM: Active SLAM in Large-Scale Unknown Environment using Map Aware Deep Reinforcement Learning, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.14330)]
 
 ##### 1.4.1 end-to-end strategies
 
