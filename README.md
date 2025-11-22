@@ -172,7 +172,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Learning to plan in high dimensions via neural exploration-exploitation trees, *ICLR 2020*. [[Paper](https://arxiv.org/pdf/1903.00070)] 
 - Neural Topological SLAM for Visual Navigation, *CVPR 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chaplot_Neural_Topological_SLAM_for_Visual_Navigation_CVPR_2020_paper.pdf)] [[Website](https://devendrachaplot.github.io/projects/Neural-Topological-SLAM)]
 - Learning to Explore using Active Neural SLAM, *ICLR 2020*. [[Paper](https://arxiv.org/pdf/2004.05155)] [[Code](https://github.com/devendrachaplot/Neural-SLAM)] [[Website](https://devendrachaplot.github.io/projects/Neural-SLAM)]
-- GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2505.20294)] [[Code](https://github.com/zjwzcx/GLEAM)] [[Website](https://xiao-chen.tech/gleam)]
+
 
 
 #### 3.1.4 Reinforcement Learning-based Exploration
@@ -201,6 +201,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - CRL: An Efficient Autonomous Exploration Framework for Large-Scale Environments With Contrastive-Driven Reinforcement Learning, *TNNLS 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11142471)]
 - HEADER: Hierarchical Robot Exploration via Attention-Based Deep Reinforcement Learning with Expert-Guided Reward, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.15679)]
 - MA-SLAM: Active SLAM in Large-Scale Unknown Environment using Map Aware Deep Reinforcement Learning, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.14330)]
+- GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2505.20294)] [[Code](https://github.com/zjwzcx/GLEAM)] [[Website](https://xiao-chen.tech/gleam)]
 
 ##### 1.4.1 end-to-end strategies
 
