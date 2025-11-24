@@ -135,6 +135,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11214391/)]
 - Energy-Aware UAV Coverage Planning in Mountainous Terrain via Contour-Aligned Path Generation, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11204479)]
 - PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration, *Sensors 2025*. [[Paper](https://arxiv.org/pdf/2511.04180v1)]
+- CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.12984)]
 
 
 #### 3.1.2 Multi-robot System
@@ -166,6 +167,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration of Unknown Environments, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.04161)]
 - Coverage-Recon: Coordinated Multi-Drone Image Sampling with Online Map Feedback, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.18347)] [[Website](https://htnk-lab.github.io/coverage-recon/)]
 - SPACE: 3D Spatial Co-operation and Exploration Framework for Robust Mapping and Coverage with Multi-Robot Systems, *arXiv 2025*. [[Paper](https://ieeexplore.ieee.org/document/11222879)]
+- Intermittent Rendezvous Plans with Mixed Integer Linear Program for Large-Scale Multi-Robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.12237)]
 
 #### 3.1.3 Neural-based Exploration
 
