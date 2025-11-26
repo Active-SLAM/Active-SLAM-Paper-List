@@ -136,6 +136,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Energy-Aware UAV Coverage Planning in Mountainous Terrain via Contour-Aligned Path Generation, *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11204479)]
 - PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration, *Sensors 2025*. [[Paper](https://arxiv.org/pdf/2511.04180v1)]
 - CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.12984)]
+- Quality-guided UAV Surface Exploration for 3D Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.20353)]
 
 
 #### 3.1.2 Multi-robot System
