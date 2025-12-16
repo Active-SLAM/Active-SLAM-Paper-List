@@ -137,6 +137,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration, *Sensors 2025*. [[Paper](https://arxiv.org/pdf/2511.04180v1)]
 - CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.12984)]
 - Quality-guided UAV Surface Exploration for 3D Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.20353)]
+- B-ActiveSEAL: Scalable Uncertainty-Aware Active Exploration with Tightly Coupled Localization-Mapping, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.12194)]
 
 
 #### 3.1.2 Multi-robot System
