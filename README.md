@@ -138,7 +138,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - CUTE-Planner: Confidence-aware Uneven Terrain Exploration Planner, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.12984)]
 - Quality-guided UAV Surface Exploration for 3D Reconstruction, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.20353)]
 - B-ActiveSEAL: Scalable Uncertainty-Aware Active Exploration with Tightly Coupled Localization-Mapping, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.12194)]
-
+- SFExplorer: A Surface-Frontier-based Efficient UAV Exploration Method for Large-Scale Unknown Environments, *IROS 2025*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11246519)]
 
 #### 3.1.2 Multi-robot System
 
