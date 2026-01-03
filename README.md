@@ -170,6 +170,8 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Coverage-Recon: Coordinated Multi-Drone Image Sampling with Online Map Feedback, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.18347)] [[Website](https://htnk-lab.github.io/coverage-recon/)]
 - SPACE: 3D Spatial Co-operation and Exploration Framework for Robust Mapping and Coverage with Multi-Robot Systems, *arXiv 2025*. [[Paper](https://ieeexplore.ieee.org/document/11222879)]
 - Intermittent Rendezvous Plans with Mixed Integer Linear Program for Large-Scale Multi-Robot Exploration, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.12237)]
+- MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments, *ICRA 2025*. [[Paper](https://arxiv.org/pdf/2502.20217)] [[Code](https://github.com/marmotlab/MARVEL)]
+
 
 #### 3.1.3 Neural-based Exploration
 
