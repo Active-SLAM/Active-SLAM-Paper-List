@@ -210,6 +210,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - HEADER: Hierarchical Robot Exploration via Attention-Based Deep Reinforcement Learning with Expert-Guided Reward, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2510.15679)]
 - MA-SLAM: Active SLAM in Large-Scale Unknown Environment using Map Aware Deep Reinforcement Learning, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2511.14330)]
 - GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2505.20294)] [[Code](https://github.com/zjwzcx/GLEAM)] [[Website](https://xiao-chen.tech/gleam)]
+- HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2601.07242)]
 
 ##### 1.4.1 end-to-end strategies
 
