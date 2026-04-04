@@ -294,6 +294,7 @@ Note: two-stages strategies use RL for viewpoint selection and navigation
 - Graph-based SLAM-Aware Exploration with Prior Topo-Metric Information, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2308.16522)] [[Code](https://github.com/bairuofei/Graph-Based_SLAM-Aware_Exploration)]
 - Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2504.10416)]
 - Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems, *RAS 2025*. [[Paper](https://arxiv.org/pdf/2506.17775)] [[Code](https://github.com/Seba-san/UncertaintyMap)]
+- Massive Parallel Deep Reinforcement Learning for Active SLAM, *ICRA 2025*. [[Paper](https://arxiv.org/pdf/2603.25834)] 
 
 ### 5.2 Active Loop Closure
 
