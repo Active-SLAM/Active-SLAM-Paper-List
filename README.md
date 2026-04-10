@@ -146,6 +146,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - An autonomous exploration method based on reinforcement learning under connectivity graph, *Knowledge-Based Systems 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0950705126002005)
 - Efficient Exploration for Quadruped Robots Using Graph Neural Networks With Global Attention, *RAL 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11397167)
 - MCVP: Multi-channel viewpoint planner for efficient exploration and mapping of complex 3D environments, *Biomimetic Intelligence and Robotics 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667379726000318)
+- Multi-resolution field-based algorithm for autonomous robot exploration, *Scientific Reports 2026*. [[Paper](https://www.nature.com/articles/s41598-026-46119-3_reference.pdf)
 
 #### 3.1.2 Multi-robot System
 
