@@ -181,6 +181,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments, *ICRA 2025*. [[Paper](https://arxiv.org/pdf/2502.20217)] [[Code](https://github.com/marmotlab/MARVEL)]
 - Multi-Robot Collaborative SLAM (Multi-SLAM) with Distributed Lightweight Predictive Frontier Exploration (LPFE), *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11303573/)] [[Code](https://github.com/acachathuranga/LPFE)]
 - SLEI3D: Simultaneous Exploration and Inspection via Heterogeneous Fleets under Limited Communication, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2601.00163)]
+- PRoID: Predicted Rate of Information Delivery in Multi-Robot Exploration and Relaying, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.10433)]
 
 #### 3.1.3 Neural-based Exploration
 
