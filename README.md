@@ -182,6 +182,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - Multi-Robot Collaborative SLAM (Multi-SLAM) with Distributed Lightweight Predictive Frontier Exploration (LPFE), *RAL 2025*. [[Paper](https://ieeexplore.ieee.org/document/11303573/)] [[Code](https://github.com/acachathuranga/LPFE)]
 - SLEI3D: Simultaneous Exploration and Inspection via Heterogeneous Fleets under Limited Communication, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2601.00163)]
 - PRoID: Predicted Rate of Information Delivery in Multi-Robot Exploration and Relaying, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.10433)]
+- VORL-EXPLORE: A Hybrid Learning Planning Approach to Multi-Robot Exploration in Dynamic Environments, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.07973)]
 
 #### 3.1.3 Neural-based Exploration
 
