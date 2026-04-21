@@ -221,6 +221,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - GLEAM: Learning Generalizable Exploration Policy for Active Mapping in Complex 3D Indoor Scenes, *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2505.20294)] [[Code](https://github.com/zjwzcx/GLEAM)] [[Website](https://xiao-chen.tech/gleam)]
 - HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2601.07242)]
 - Massive Parallel Deep Reinforcement Learning for Active SLAM, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.25834)] [[Cpde](https://anonymous.4open.science/r/pdrl-aslam-8BE7/README.md)]
+- Learning-Based Sparsification of Dynamic Graphs in Robotic Exploration Algorithms, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.16509)] [[Cpde](https://github.com/avs-origami/graphsparse)]
 
 ##### 1.4.1 end-to-end strategies
 
