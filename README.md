@@ -315,3 +315,4 @@ Note: two-stages strategies use RL for viewpoint selection and navigation
 
 ## 7.LLM/VLM/WorldModel Augmented Exploration
 - COMRES-VLM: Coordinated Multi-Robot Exploration and Search using Vision Language Models, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.26324v3)]
+- NarraGuide: an LLM-based Narrative Mobile Robot for Remote  Place Exploration, *Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology 2025*. [[Paper](https://dl.acm.org/doi/abs/10.1145/3746059.3747697)]
