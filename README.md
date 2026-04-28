@@ -184,6 +184,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - SLEI3D: Simultaneous Exploration and Inspection via Heterogeneous Fleets under Limited Communication, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2601.00163)]
 - PRoID: Predicted Rate of Information Delivery in Multi-Robot Exploration and Relaying, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.10433)]
 - VORL-EXPLORE: A Hybrid Learning Planning Approach to Multi-Robot Exploration in Dynamic Environments, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.07973)]
+- Decentralized Heterogeneous Multi-Robot Collaborative Exploration for Indoor and Outdoor 3D Environments, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.23693)]
 
 #### 3.1.3 Neural-based Exploration
 
