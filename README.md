@@ -148,6 +148,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - MCVP: Multi-channel viewpoint planner for efficient exploration and mapping of complex 3D environments, *Biomimetic Intelligence and Robotics 2026*. [[Paper](https://www.sciencedirect.com/science/article/pii/S2667379726000318)
 - Multi-resolution field-based algorithm for autonomous robot exploration, *Scientific Reports 2026*. [[Paper](https://www.nature.com/articles/s41598-026-46119-3_reference.pdf)
 - Paparazzo: Active Mapping of Moving 3D Objects, *CVPR 2026*. [[Paper](https://arxiv.org/pdf/2604.19556) [[Website](https://davidea97.github.io/paparazzo-page/)]
+- An Efficient Beam Search Algorithm for Active Perception in Mobile Robotics, *IJRR 2026*. [[Paper](https://arxiv.org/pdf/2604.23327) [[Website](https://efficient-beam-search.github.io/)] [[Code](https://openapero.github.io/)]
 
 #### 3.1.2 Multi-robot System
 
