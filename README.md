@@ -254,6 +254,7 @@ Note: two-stages strategies use RL for viewpoint selection and navigation
 - HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.17624)]
 - ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2410.21955)] [[Website](https://li-yuetao.github.io/ActiveSplat/)] [[Code](https://github.com/Li-Yuetao/ActiveSplat)]
 - Active Neural Mapping at Scale, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20276)]
+- MAGICIAN: Efficient Long-Term Planning with Imagined Gaussians for Active Mapping, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.22650)] [[Website](https://shiyao-li.github.io/magician/)]
 
 #### 3.1.9 Exploration and Interaction
 
