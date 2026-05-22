@@ -316,6 +316,7 @@ Note: two-stages strategies use RL for viewpoint selection and navigation
 - Adaptive Robotic Information Gathering via Non-Stationary Gaussian Processes, *IJRR 2024*. [[Paper](https://arxiv.org/pdf/2306.01263)] [[PyPolo](https://pypolo.readthedocs.io/en/latest/)]
 - Multi-Agent Ergodic Exploration under Smoke-Based Time-Varying Sensor Visibility Constraints, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.04998)]
 - Informative Path Planning to Explore and Map Unknown Planetary Surfaces with Gaussian Processes, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.16613)]
+- Learning What Matters: Adaptive Information-Theoretic Objectives for Robot Exploration, *RSS 2026*. [[Paper](https://arxiv.org/pdf/2605.12084)]
 
 ## 7.LLM/VLM/WorldModel Augmented Exploration
 - COMRES-VLM: Coordinated Multi-Robot Exploration and Search using Vision Language Models, *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2509.26324v3)]
