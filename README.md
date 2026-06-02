@@ -186,6 +186,7 @@ This repository organizes relevant papers in the Active SLAM domain according to
 - PRoID: Predicted Rate of Information Delivery in Multi-Robot Exploration and Relaying, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2604.10433)]
 - VORL-EXPLORE: A Hybrid Learning Planning Approach to Multi-Robot Exploration in Dynamic Environments, *arXiv 2026*. [[Paper](https://arxiv.org/pdf/2603.07973)]
 - Decentralized Heterogeneous Multi-Robot Collaborative Exploration for Indoor and Outdoor 3D Environments, *TRO 2026*. [[Paper](https://arxiv.org/pdf/2604.23693)]
+- A Distributed Multi-UGV Exploration Framework With Loop-Aware Planning and Descriptor-Aided Localization in Resource-Limited Environments, *TIE 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11538332)]
 
 #### 3.1.3 Neural-based Exploration
 
@@ -255,6 +256,8 @@ Note: two-stages strategies use RL for viewpoint selection and navigation
 - ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting, *RAL, 2025*. [[Paper](https://arxiv.org/pdf/2410.21955)] [[Website](https://li-yuetao.github.io/ActiveSplat/)] [[Code](https://github.com/Li-Yuetao/ActiveSplat)]
 - Active Neural Mapping at Scale, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20276)]
 - MAGICIAN: Efficient Long-Term Planning with Imagined Gaussians for Active Mapping, *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.22650)] [[Website](https://shiyao-li.github.io/magician/)]
+- ActMVS: Active Scene Reconstruction with Monocular Multi-View Stereo, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2606.01367)] [[Code](https://github.com/TrickyGo/ActMVS)]
+- Uncertainty-driven 3D Gaussian Splatting Active Mapping via Anisotropic Visibility Field, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2605.30342)]
 
 #### 3.1.9 Exploration and Interaction
 
